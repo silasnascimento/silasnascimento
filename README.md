@@ -13,10 +13,6 @@ Sou Especialista em Geoprocessamento com mais de 12 anos de experiência, atualm
 ## 🌱 O que estou aprendendo?
 Atualmente, estou aprofundando meu conhecimento em Machine Learning aplicado a geoprocessamento, especialmente em delineamento de zonas úmidas com redes neurais U-Net e processamento de imagens multiespectrais.
 
-## 🚀 Projetos em Destaque
-- **WebGIS de Imóveis para Aluguel**: Aplicação que permite usuários filtrarem imóveis com base em locais de interesse configuráveis, como proximidade de avenidas ou praças.
-- **Delineamento de Zonas Úmidas**: Projeto utilizando técnicas de deep learning para identificar e mapear zonas úmidas com dados do Sentinel-2, com publicação no ArcGIS Online.
-- **Portal de Dados Geográficos da Cidade**: Desenvolvimento de um portal para disponibilização de dados geoespaciais abertos ao público.
 
 ## 💬 Vamos conversar!
 Se você tiver interesse em colaborar, discutir ideias ou contratar serviços de consultoria em GIS, automação de processos ou desenvolvimento WebGIS, sinta-se à vontade para entrar em contato.
