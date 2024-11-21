@@ -1,23 +1,23 @@
-# 👋 Olá, eu sou o Silas!
+## 👋 Hi, I'm Silas!
 
-Sou Especialista em Geoprocessamento com mais de 12 anos de experiência, atualmente focado em desenvolvimento de soluções GIS Open-Source. Minha carreira abrange setores diversos, incluindo Sociedade Civil, Administração Pública e Empresas Privadas. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UNINTER, aprofundando meus conhecimentos em programação e desenvolvimento de sistemas.
+I'm a GIS consultant with over 12 years of experience, currently focused on developing open-source GIS solutions. My career spans diverse sectors, including civil society, public administration, and private companies. I'm currently pursuing a degree in Systems Analysis and Development at UNINTER, deepening my knowledge of programming and systems development.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 - **GIS**: QGIS, ArcGIS Pro, PostGIS, GDAL, GRASS, SAGA GIS
-- **Bancos de Dados**: PostgreSQL, MySQL, SQLite, GeoPackage
-- **Servidores GIS**: GeoServer, MapServer, QGIS Server
+- **Geospatial Analysis**: Remote sensing, Mapping, Spatial modeling, Change detection, Geocoding
+- **Databases**: PostgreSQL, MySQL, SQLite, GeoPackage
+- **GIS Servers**: GeoServer, MapServer, QGIS Server
 - **Webmapping**: Leaflet, OpenLayers
-- **Programação**: Python, JavaScript, PHP, Java
-- **Frameworks e Bibliotecas**: Laravel, React, Angular, VueJS, Spring, Bootstrap, jQuery
+- **Programming**: Python, JavaScript, PHP, Java
 
-## 🌱 O que estou aprendendo?
-Atualmente, estou aprofundando meu conhecimento em Machine Learning aplicado a geoprocessamento, especialmente em delineamento de zonas úmidas com redes neurais U-Net e processamento de imagens multiespectrais.
+## 🌱 What am I learning?
+Currently, I'm diving deeper into Machine Learning applied to geoprocessing, specifically in wetland delineation with U-Net neural networks and multispectral image processing.
 
 
-## 💬 Vamos conversar!
-Se você tiver interesse em colaborar, discutir ideias ou contratar serviços de consultoria em GIS, automação de processos ou desenvolvimento WebGIS, sinta-se à vontade para entrar em contato.
+## 💬 Let's chat!
+If you're interested in collaborating, discussing ideas, or contracting GIS consulting services, process automation, or WebGIS development, feel free to get in touch.
 
-## 📫 Como me encontrar
+## 📫 How to find me
 - **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/silas-oliveira-41a633186/](#)
 - **Email**: silas@setmapgeo.com
 
