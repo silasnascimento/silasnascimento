@@ -18,8 +18,8 @@ Currently, I'm diving deeper into Machine Learning applied to geoprocessing, spe
 If you're interested in collaborating, discussing ideas, or contracting GIS consulting services, process automation, or WebGIS development, feel free to get in touch.
 
 ## 📫 How to find me
-- **LinkedIn**: [linkedin.com/in/silasoliveira](https://www.linkedin.com/in/silas-oliveira-41a633186/](#)
-- **website**:[setmapgeo.com](https://www.setmapgeo.com/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/silas-oliveira-41a633186/]
+- **website**: [https://www.setmapgeo.com/]
 - **Email**: silas@setmapgeo.com
 
 
