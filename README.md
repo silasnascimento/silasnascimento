@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Silas!
 
-I'm a GIS consultant with over 12 years of experience, currently focused on developing open-source GIS solutions. My career spans diverse sectors, including civil society, public administration, and private companies. I'm currently pursuing a degree in Systems Analysis and Development at UNINTER, deepening my knowledge of programming and systems development.
+I'm a GIS specialist with over 12 years of experience, currently focused on developing open-source GIS solutions. My career spans diverse sectors, including civil society, public administration, and private companies. I'm currently pursuing a degree in Systems Analysis and Development at UNINTER, deepening my knowledge of programming and systems development.
 
 ## 🛠️ Technologies and Tools
 - **GIS**: QGIS, ArcGIS Pro, PostGIS, GDAL, GRASS, SAGA GIS
@@ -18,7 +18,8 @@ Currently, I'm diving deeper into Machine Learning applied to geoprocessing, spe
 If you're interested in collaborating, discussing ideas, or contracting GIS consulting services, process automation, or WebGIS development, feel free to get in touch.
 
 ## 📫 How to find me
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/silas-oliveira-41a633186/](#)
+- **LinkedIn**: [linkedin.com/in/silasoliveira](https://www.linkedin.com/in/silas-oliveira-41a633186/](#)
+- **website**:[setmapgeo.com](https://www.setmapgeo.com/](#)
 - **Email**: silas@setmapgeo.com
 
 
