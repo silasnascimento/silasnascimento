@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Silas!
+## Hi, I'm Silas!
 
 I'm a GIS specialist with over 12 years of experience, currently focused on developing open-source GIS solutions. My career spans diverse sectors, including civil society, public administration, and private companies. I'm currently pursuing a degree in Systems Analysis and Development at UNINTER, deepening my knowledge of programming and systems development.
 
