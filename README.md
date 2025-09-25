@@ -19,7 +19,6 @@ If you're interested in collaborating, discussing ideas, or contracting GIS cons
 
 ## 📫 How to find me
 - **LinkedIn**: [https://www.linkedin.com/in/silas-oliveira-41a633186/]
-- **website**: [https://www.setmapgeo.com/]
-- **Email**: silas@setmapgeo.com
+- **website**: [https://silasogis.com/]
 
 
